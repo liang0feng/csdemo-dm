@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <Id>1G1EAB9J5JQH</Id>
+  <DesignMetas>
+    <DesignCloudMeta>
+      <DevType>1</DevType>
+      <Image></Image>
+      <Visible>1</Visible>
+      <ModifyDate>1619579560000</ModifyDate>
+      <Modifier>1107028900082353152</Modifier>
+      <Isv>kded</Isv>
+      <Version>1.0</Version>
+      <BackImage></BackImage>
+      <Number>kded_devtest</Number>
+      <IndustryId>0</IndustryId>
+      <BaseAppId>1AG9DD2=+CZQ</BaseAppId>
+      <Creater>1107028900082353152</Creater>
+      <SimpleNumber></SimpleNumber>
+      <Id>1G1EAB9J5JQH</Id>
+      <Seq>862</Seq>
+      <CreateDate>1615261732000</CreateDate>
+    </DesignCloudMeta>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

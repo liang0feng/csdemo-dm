@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Id>1G1EAB9J5JQH</Id>
+  <DesignMetas>
+    <DesignCloudMetaL>
+      <PkId>1G1EAB9J5J19</PkId>
+      <Name>開發測試雲</Name>
+      <Description></Description>
+      <Id>1G1EAB9J5JQH</Id>
+      <LocaleId>zh_TW</LocaleId>
+    </DesignCloudMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
