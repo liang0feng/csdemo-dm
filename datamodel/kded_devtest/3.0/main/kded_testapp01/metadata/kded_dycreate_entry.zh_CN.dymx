@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1FIJ6XQL8I7K</MasterId>
+  <Id>1FIJ6XQL8I7K</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_dycreate_entry</Number>
+      <PkId>1GW=JYYRBKSY</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>动态添加单据体demo</Name>
+      <Id>1FIJ6XQL8I7K</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_dycreate_entry</Number>
+      <PkId>1GW=JYZS848A</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>动态添加单据体demo</Name>
+      <Id>1FIJ6XQL8I7K</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1616054950063</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

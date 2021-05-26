@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1HGY7RSZD2JW</MasterId>
+  <Id>1HGY7RSZD2JW</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_bill0325_001</Number>
+      <PkId>1KF8SQFW/+OU</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>常用过滤条件自定义修改</Name>
+      <Id>1HGY7RSZD2JW</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_bill0325_001</Number>
+      <PkId>1KF8SQN7FTKL</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>常用过滤条件自定义修改</Name>
+      <Id>1HGY7RSZD2JW</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1619512465679</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

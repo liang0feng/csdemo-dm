@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1K2A2PT3ORS8</MasterId>
+  <Id>1K2A2PT3ORS8</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_bill0423_001</Number>
+      <PkId>1K2J20+M+OKS</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>单据体</Name>
+      <Id>1K2A2PT3ORS8</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_bill0423_001</Number>
+      <PkId>1K2J204/=R29</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>单据体</Name>
+      <Id>1K2A2PT3ORS8</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1619171315563</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

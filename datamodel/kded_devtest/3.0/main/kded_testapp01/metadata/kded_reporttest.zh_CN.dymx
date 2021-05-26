@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1HKY/0Y9RK23</MasterId>
+  <Id>1HKY/0Y9RK23</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_reporttest</Number>
+      <PkId>1HKY7SZNAKZW</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>报表210326</Name>
+      <Id>1HKY/0Y9RK23</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_reporttest</Number>
+      <PkId>1HKY7T/ZZZ3F</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>报表210326</Name>
+      <Id>1HKY/0Y9RK23</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1616742508829</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

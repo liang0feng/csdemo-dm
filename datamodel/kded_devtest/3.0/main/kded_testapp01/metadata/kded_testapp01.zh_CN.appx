@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployAppMetadata>
+  <MasterId>1CAYVS3W6777</MasterId>
+  <Id>1CAYVS3W6777</Id>
+  <DesignMetas>
+    <DesignAppMetaL>
+      <PkId>1LS4V2P7E=1Q</PkId>
+      <DataXml>
+        <AppMetadata>
+          <AppFunctionPackets>
+            <AppFunctionPacketElement action="edit" oid="1LS4V2/BHA1S">
+              <ParentId/>
+            </AppFunctionPacketElement>
+          </AppFunctionPackets>
+        </AppMetadata>
+      </DataXml>
+      <Name>测试应用01</Name>
+      <Description></Description>
+      <Id>1CAYVS3W6777</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignAppMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployAppMetadata>

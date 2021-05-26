@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1HKYFUJ/W3W6</MasterId>
+  <Id>1HKYFUJ/W3W6</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_report210326_001</Number>
+      <PkId>1HVPPDUTGZIH</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>报表002</Name>
+      <Id>1HKYFUJ/W3W6</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_report210326_001</Number>
+      <PkId>1HVPPE37LGS6</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>报表002</Name>
+      <Id>1HKYFUJ/W3W6</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1617010777182</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

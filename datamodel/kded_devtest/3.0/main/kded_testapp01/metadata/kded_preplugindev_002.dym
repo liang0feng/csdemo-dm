@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1LS50N7QR84M</MasterId>
+  <BizappId>1CAYVS3W6777</BizappId>
+  <Id>1LS50N7QR84M</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1620805377000</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Isv>kded</Isv>
+          <Id>1LS50N7QR84M</Id>
+          <Key>kded_preplugindev_002</Key>
+          <EntityId>1LS50N7QR84M</EntityId>
+          <ParentId>00305e8b000006ac</ParentId>
+          <BizappId>1CAYVS3W6777</BizappId>
+          <Name>初级插件开发demo单据02</Name>
+          <InheritPath>00305e8b000006ac</InheritPath>
+          <Items>
+            <BillFormAp action="edit" oid="00305e8b000005ac">
+              <Plugins>
+                <Plugin action="edit" oid="kd.bos.form.plugin.TemplateBillEdit">
+                  <BizAppId/>
+                  <FPK/>
+                  <Description/>
+                </Plugin>
+                <Plugin action="edit" oid="kd.bos.form.plugin.CodeRulePlugin">
+                  <BizAppId/>
+                  <FPK/>
+                  <Description/>
+                  <RowKey>1</RowKey>
+                </Plugin>
+                <Plugin>
+                  <BizAppId/>
+                  <FPK/>
+                  <Description>初级插件开发演示插件——父子页面通信</Description>
+                  <ClassName>kded.devclass.preplugindev.AnotherEdit</ClassName>
+                  <Enabled>true</Enabled>
+                  <RowKey>2</RowKey>
+                </Plugin>
+              </Plugins>
+              <MobListMeta>
+                <FormMetadata>
+                  <Items>
+                    <BillListAp action="edit" oid="_BillList_">
+                      <EntityId>1LS50N7QR84M</EntityId>
+                    </BillListAp>
+                  </Items>
+                </FormMetadata>
+              </MobListMeta>
+              <Id>1LS50N7QR84M</Id>
+              <Name>初级插件开发demo单据02</Name>
+              <Key>kded_preplugindev_002</Key>
+            </BillFormAp>
+            <BarItemAp action="edit" oid="KTGVz6Bi1k">
+              <Hidden>true</Hidden>
+            </BarItemAp>
+            <BarItemAp action="edit" oid="52qm5tM3D3">
+              <Hidden>true</Hidden>
+            </BarItemAp>
+            <BarItemAp action="edit" oid="rll2vYoF7P">
+              <Hidden>true</Hidden>
+            </BarItemAp>
+            <BarItemAp action="edit" oid="EhYF8uWHHu">
+              <Hidden>true</Hidden>
+            </BarItemAp>
+            <BarItemAp action="edit" oid="Owaosp9pGa">
+              <Hidden>true</Hidden>
+            </BarItemAp>
+            <BarItemAp action="edit" oid="h3UcTwsBYy">
+              <Hidden>true</Hidden>
+            </BarItemAp>
+            <BarItemAp>
+              <Id>jn8WwA0OR0</Id>
+              <Key>kded_printparam</Key>
+              <OperationStyle>0</OperationStyle>
+              <Index>10</Index>
+              <ParentId>KEFmJcZ1zW</ParentId>
+              <Name>打印父页面传递的参数</Name>
+            </BarItemAp>
+            <BarItemAp>
+              <Id>ZkN1qeLZxa</Id>
+              <Key>kded_notifyparent</Key>
+              <OperationStyle>0</OperationStyle>
+              <Index>11</Index>
+              <ParentId>KEFmJcZ1zW</ParentId>
+              <Name>控制父页面提示信息</Name>
+            </BarItemAp>
+            <FieldsetPanelAp action="edit" oid="xTQZ9d8tHa">
+              <Index>1</Index>
+            </FieldsetPanelAp>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <Index>2</Index>
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>1149791915282006016</ModifierId>
+      <EntityId>1LS50N7QR84M</EntityId>
+      <ModelType>BillFormModel</ModelType>
+      <Isv>kded</Isv>
+      <Version>1620805377359</Version>
+      <ParentId>00305e8b000006ac</ParentId>
+      <MasterId></MasterId>
+      <Number>kded_preplugindev_002</Number>
+      <BizappId>1CAYVS3W6777</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1LS50N7QR84M</Id>
+      <InheritPath>00305e8b000006ac</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>0</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <Id>1LS50N7QR84M</Id>
+          <ParentId>00305e8b000006ac</ParentId>
+          <BizappId>1CAYVS3W6777</BizappId>
+          <IsvSign/>
+          <Name>初级插件开发demo单据02</Name>
+          <InheritPath>00305e8b000006ac</InheritPath>
+          <Items>
+            <BillEntity action="edit" oid="00305e8b000007ac">
+              <Template action="reset"/>
+              <dbRoute>secd</dbRoute>
+              <Id>1LS50N7QR84M</Id>
+              <Key>kded_preplugindev_002</Key>
+              <Name>初级插件开发demo单据02</Name>
+            </BillEntity>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>BillFormModel</ModelType>
+      <Isv></Isv>
+      <Version>1620805377409</Version>
+      <ParentId>00305e8b000006ac</ParentId>
+      <MasterId></MasterId>
+      <Number>kded_preplugindev_002</Number>
+      <BizappId>1CAYVS3W6777</BizappId>
+      <Id>1LS50N7QR84M</Id>
+      <InheritPath>00305e8b000006ac</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1620805377359</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1LS4V2/BHA1S</BizunitId>
+</DeployMetadata>

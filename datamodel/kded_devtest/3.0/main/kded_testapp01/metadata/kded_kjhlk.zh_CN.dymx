@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1GHMJLAGBF2W</MasterId>
+  <Id>1GHMJLAGBF2W</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_kjhlk</Number>
+      <PkId>1I/NWI1K7B71</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>请假单</Name>
+      <Id>1GHMJLAGBF2W</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_kjhlk</Number>
+      <PkId>1I/NWI92XZ4B</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>请假单</Name>
+      <Id>1GHMJLAGBF2W</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1617158911596</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

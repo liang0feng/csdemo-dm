@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1H7BL/PP42EP</MasterId>
+  <BizappId>1CAYVS3W6777</BizappId>
+  <Id>1H7BL/PP42EP</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1616399773000</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Isv>kded</Isv>
+          <Id>1H7BL/PP42EP</Id>
+          <Key>kded_bill0322_001</Key>
+          <EntityId>1H7BL/PP42EP</EntityId>
+          <ParentId>00305e8b000006ac</ParentId>
+          <BizappId>1CAYVS3W6777</BizappId>
+          <Name>poc表单建模演示单据</Name>
+          <InheritPath>00305e8b000006ac</InheritPath>
+          <Items>
+            <BillFormAp action="edit" oid="00305e8b000005ac">
+              <MobListMeta>
+                <FormMetadata>
+                  <Items>
+                    <BillListAp action="edit" oid="_BillList_">
+                      <EntityId>1H7BL/PP42EP</EntityId>
+                    </BillListAp>
+                  </Items>
+                </FormMetadata>
+              </MobListMeta>
+              <Id>1H7BL/PP42EP</Id>
+              <Name>poc表单建模演示单据</Name>
+              <Key>kded_bill0322_001</Key>
+            </BillFormAp>
+            <BarItemAp action="edit" oid="LTouS4Ri1Q">
+              <BusyTip/>
+            </BarItemAp>
+            <FieldAp>
+              <Id>EgxFlFcY9Z</Id>
+              <FieldId>EgxFlFcY9Z</FieldId>
+              <Index>4</Index>
+              <Name>poc演示字段</Name>
+              <Key>kded_textfield</Key>
+              <ParentId>mqK0FWAH2I</ParentId>
+            </FieldAp>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>1107028900082353152</ModifierId>
+      <EntityId>1H7BL/PP42EP</EntityId>
+      <ModelType>BillFormModel</ModelType>
+      <Isv>kded</Isv>
+      <Version>1616399772610</Version>
+      <ParentId>00305e8b000006ac</ParentId>
+      <MasterId></MasterId>
+      <Number>kded_bill0322_001</Number>
+      <BizappId>1CAYVS3W6777</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1H7BL/PP42EP</Id>
+      <InheritPath>00305e8b000006ac</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>0</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <Id>1H7BL/PP42EP</Id>
+          <ParentId>00305e8b000006ac</ParentId>
+          <BizappId>1CAYVS3W6777</BizappId>
+          <IsvSign/>
+          <Name>poc表单建模演示单据</Name>
+          <InheritPath>00305e8b000006ac</InheritPath>
+          <Items>
+            <BillEntity action="edit" oid="00305e8b000007ac">
+              <Template action="reset"/>
+              <dbRoute>secd</dbRoute>
+              <TableName>tk_kded_bill0322_001</TableName>
+              <Id>1H7BL/PP42EP</Id>
+              <Key>kded_bill0322_001</Key>
+              <Name>poc表单建模演示单据</Name>
+            </BillEntity>
+            <TextField>
+              <FieldName>fk_kded_textfield</FieldName>
+              <Features>
+                <Features>
+                  <Ver>1</Ver>
+                </Features>
+              </Features>
+              <Id>EgxFlFcY9Z</Id>
+              <Key>kded_textfield</Key>
+              <Name>poc演示字段</Name>
+            </TextField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>BillFormModel</ModelType>
+      <Isv></Isv>
+      <Version>1616399772691</Version>
+      <ParentId>00305e8b000006ac</ParentId>
+      <MasterId></MasterId>
+      <Number>kded_bill0322_001</Number>
+      <BizappId>1CAYVS3W6777</BizappId>
+      <Id>1H7BL/PP42EP</Id>
+      <InheritPath>00305e8b000006ac</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1616399772610</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1CAYX/JO+XM5</BizunitId>
+</DeployMetadata>

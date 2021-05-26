@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1CAYVTYBPYX6</MasterId>
+  <Id>1CAYVTYBPYX6</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_testapp01_apphome</Number>
+      <PkId>1CAYVUCY0DMV</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>测试应用01_应用首页</Name>
+      <Id>1CAYVTYBPYX6</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_testapp01_apphome</Number>
+      <PkId>1CAYVUEZTJJD</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>测试应用01_应用首页</Name>
+      <Id>1CAYVTYBPYX6</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1611642034673</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

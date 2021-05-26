@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1H7BL/PP42EP</MasterId>
+  <Id>1H7BL/PP42EP</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_bill0322_001</Number>
+      <PkId>1H8504BS+PMN</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>poc表单建模演示单据</Name>
+      <Id>1H7BL/PP42EP</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_bill0322_001</Number>
+      <PkId>1H8504J71YPY</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>poc表单建模演示单据</Name>
+      <Id>1H7BL/PP42EP</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1616399772610</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1GAN5HQKRV/E</MasterId>
+  <BizappId>1CAYVS3W6777</BizappId>
+  <Id>1GAN5HQKRV/E</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1615528635000</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Isv>kded</Isv>
+          <Id>1GAN5HQKRV/E</Id>
+          <Key>kded_mobile_bill_001</Key>
+          <EntityId>1GAN5HQKRV/E</EntityId>
+          <ParentId>00305e8b000006ac</ParentId>
+          <BizappId>1CAYVS3W6777</BizappId>
+          <Name>移动端图片列表控件展示图片</Name>
+          <InheritPath>00305e8b000006ac</InheritPath>
+          <Items>
+            <BillFormAp action="edit" oid="00305e8b000005ac">
+              <Plugins>
+                <Plugin action="edit" oid="kd.bos.form.plugin.TemplateBillEdit">
+                  <BizAppId/>
+                  <FPK/>
+                  <Description/>
+                </Plugin>
+                <Plugin action="edit" oid="kd.bos.form.plugin.CodeRulePlugin">
+                  <BizAppId/>
+                  <FPK/>
+                  <Description/>
+                  <RowKey>1</RowKey>
+                </Plugin>
+                <Plugin>
+                  <BizAppId/>
+                  <FPK/>
+                  <Description/>
+                  <ClassName>kded.demo.fromplugin.mobile.ImageListDemo</ClassName>
+                  <Enabled>true</Enabled>
+                  <RowKey>2</RowKey>
+                </Plugin>
+              </Plugins>
+              <MobListMeta>
+                <FormMetadata>
+                  <Items>
+                    <BillListAp action="edit" oid="_BillList_">
+                      <EntityId>1GAN5HQKRV/E</EntityId>
+                    </BillListAp>
+                  </Items>
+                </FormMetadata>
+              </MobListMeta>
+              <Id>1GAN5HQKRV/E</Id>
+              <Name>移动端图片列表控件展示图片</Name>
+              <Key>kded_mobile_bill_001</Key>
+              <MobMeta>
+                <FormMetadata>
+                  <Id>1GAN5HQKRV/E</Id>
+                  <Key>kded_mobile_bill_001_mob</Key>
+                  <EntityId>1GAN5HQKRV/E</EntityId>
+                  <Name>移动端图片列表控件展示图片</Name>
+                  <Items>
+                    <MobileBillFormAp action="edit" oid="c11cd0e8000008ac">
+                      <Plugins>
+                        <Plugin action="edit" oid="kd.bos.form.plugin.CodeRulePlugin">
+                          <BizAppId/>
+                          <FPK/>
+                          <Description/>
+                          <RowKey action="reset"/>
+                        </Plugin>
+                        <Plugin>
+                          <BizAppId/>
+                          <FPK/>
+                          <Description/>
+                          <ClassName>kded.demo.fromplugin.mobile.ImageListDemo</ClassName>
+                          <Enabled>true</Enabled>
+                          <RowKey>1</RowKey>
+                        </Plugin>
+                      </Plugins>
+                      <Id>1GAN5HQKRV/E</Id>
+                      <Name>移动端图片列表控件展示图片</Name>
+                      <Key>kded_mobile_bill_001_mob</Key>
+                    </MobileBillFormAp>
+                    <FieldAp action="edit" oid="l0yky0Xm63">
+                      <ParentId>1GAN5HQKRV/E</ParentId>
+                    </FieldAp>
+                    <MToolbarAp action="edit" oid="PbiHIUwCY6">
+                      <ParentId>1GAN5HQKRV/E</ParentId>
+                    </MToolbarAp>
+                    <ImageListAp>
+                      <UploadImg>true</UploadImg>
+                      <MaxImgSize>-1</MaxImgSize>
+                      <Id>rGgLmZUid9</Id>
+                      <Key>kded_imagelistap</Key>
+                      <Index>2</Index>
+                      <ParentId>1GAN5HQKRV/E</ParentId>
+                      <MultiImg>true</MultiImg>
+                      <Name>图片列表</Name>
+                    </ImageListAp>
+                  </Items>
+                </FormMetadata>
+              </MobMeta>
+              <ListMeta>
+                <FormMetadata>
+                  <Items>
+                    <BillListAp action="edit" oid="_BillList_">
+                      <EntityId>1GAN5HQKRV/E</EntityId>
+                    </BillListAp>
+                  </Items>
+                </FormMetadata>
+              </ListMeta>
+            </BillFormAp>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+            <ImageListAp>
+              <UploadImg>true</UploadImg>
+              <MaxImgSize>-1</MaxImgSize>
+              <Id>kF2Pz5q5tw</Id>
+              <Key>kded_imagelistap</Key>
+              <Index>3</Index>
+              <ParentId>sb5ReliwR1</ParentId>
+              <MultiImg>true</MultiImg>
+              <Name>图片列表</Name>
+            </ImageListAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>1107028900082353152</ModifierId>
+      <EntityId>1GAN5HQKRV/E</EntityId>
+      <ModelType>BillFormModel</ModelType>
+      <Isv>kded</Isv>
+      <Version>1615528635484</Version>
+      <ParentId>00305e8b000006ac</ParentId>
+      <MasterId></MasterId>
+      <Number>kded_mobile_bill_001</Number>
+      <BizappId>1CAYVS3W6777</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1GAN5HQKRV/E</Id>
+      <InheritPath>00305e8b000006ac</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>0</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <Id>1GAN5HQKRV/E</Id>
+          <ParentId>00305e8b000006ac</ParentId>
+          <BizappId>1CAYVS3W6777</BizappId>
+          <IsvSign/>
+          <Name>移动端图片列表控件展示图片</Name>
+          <InheritPath>00305e8b000006ac</InheritPath>
+          <Items>
+            <BillEntity action="edit" oid="00305e8b000007ac">
+              <Template action="reset"/>
+              <dbRoute>secd</dbRoute>
+              <TableName>tk_kded_mobile_bill_001</TableName>
+              <Id>1GAN5HQKRV/E</Id>
+              <Key>kded_mobile_bill_001</Key>
+              <NetworkControl>
+                <NetCtrlOperation action="remove" oid="b599405400000dac"/>
+                <NetCtrlOperation action="remove" oid="b599405400000eac"/>
+                <NetCtrlOperation action="remove" oid="c91d5125000034ac"/>
+                <NetCtrlOperation action="remove" oid="c91d5125000035ac"/>
+                <NetCtrlOperation action="remove" oid="c91d5125000036ac"/>
+                <NetCtrlOperation action="remove" oid="f8f9e162000002ac"/>
+                <NetCtrlOperation action="remove" oid="f31a499a000098ac"/>
+              </NetworkControl>
+              <Name>移动端图片列表控件展示图片</Name>
+            </BillEntity>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>BillFormModel</ModelType>
+      <Isv></Isv>
+      <Version>1615528635532</Version>
+      <ParentId>00305e8b000006ac</ParentId>
+      <MasterId></MasterId>
+      <Number>kded_mobile_bill_001</Number>
+      <BizappId>1CAYVS3W6777</BizappId>
+      <Id>1GAN5HQKRV/E</Id>
+      <InheritPath>00305e8b000006ac</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1615528635484</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1GAN106SEY81</BizunitId>
+</DeployMetadata>

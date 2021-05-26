@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1K+50UMLU+L6</MasterId>
+  <BizappId>1CAYVS3W6777</BizappId>
+  <Id>1K+50UMLU+L6</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1619062267000</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Isv>kded</Isv>
+          <Id>1K+50UMLU+L6</Id>
+          <Key>kded_bd_0422_001</Key>
+          <EntityId>1K+50UMLU+L6</EntityId>
+          <ParentId>1942c188000065ac</ParentId>
+          <BizappId>1CAYVS3W6777</BizappId>
+          <Name>常用条件1</Name>
+          <InheritPath>1942c188000065ac</InheritPath>
+          <Items>
+            <BasedataFormAp action="edit" oid="1942c188000064ac">
+              <MobListMeta>
+                <FormMetadata>
+                  <Items>
+                    <BillListAp action="edit" oid="_BillList_">
+                      <EntityId>1K+50UMLU+L6</EntityId>
+                    </BillListAp>
+                  </Items>
+                </FormMetadata>
+              </MobListMeta>
+              <Id>1K+50UMLU+L6</Id>
+              <Name>常用条件1</Name>
+              <Key>kded_bd_0422_001</Key>
+            </BasedataFormAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>1107028900082353152</ModifierId>
+      <EntityId>1K+50UMLU+L6</EntityId>
+      <ModelType>BaseFormModel</ModelType>
+      <Isv>kded</Isv>
+      <Version>1619062267189</Version>
+      <ParentId>1942c188000065ac</ParentId>
+      <MasterId></MasterId>
+      <Number>kded_bd_0422_001</Number>
+      <BizappId>1CAYVS3W6777</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1K+50UMLU+L6</Id>
+      <InheritPath>1942c188000065ac</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>0</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <Id>1K+50UMLU+L6</Id>
+          <ParentId>1942c188000065ac</ParentId>
+          <BizappId>1CAYVS3W6777</BizappId>
+          <IsvSign/>
+          <Name>常用条件1</Name>
+          <InheritPath>1942c188000065ac</InheritPath>
+          <Items>
+            <BaseEntity action="edit" oid="1942c188000066ac">
+              <Template action="reset"/>
+              <dbRoute>secd</dbRoute>
+              <TableName>tk_kded_bd_0422_001</TableName>
+              <Id>1K+50UMLU+L6</Id>
+              <Key>kded_bd_0422_001</Key>
+              <Name>常用条件1</Name>
+            </BaseEntity>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>BaseFormModel</ModelType>
+      <Isv></Isv>
+      <Version>1619062267235</Version>
+      <ParentId>1942c188000065ac</ParentId>
+      <MasterId></MasterId>
+      <Number>kded_bd_0422_001</Number>
+      <BizappId>1CAYVS3W6777</BizappId>
+      <Id>1K+50UMLU+L6</Id>
+      <InheritPath>1942c188000065ac</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1619062267189</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1K+4ZKW7DG+=</BizunitId>
+</DeployMetadata>

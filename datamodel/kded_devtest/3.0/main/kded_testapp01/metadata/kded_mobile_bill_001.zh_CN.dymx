@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1GAN5HQKRV/E</MasterId>
+  <Id>1GAN5HQKRV/E</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_mobile_bill_001</Number>
+      <PkId>1GB4MKJRL1KJ</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>移动端图片列表控件展示图片</Name>
+      <Id>1GAN5HQKRV/E</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_mobile_bill_001</Number>
+      <PkId>1GB4MKN/HM+R</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>移动端图片列表控件展示图片</Name>
+      <Id>1GAN5HQKRV/E</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1615528635484</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

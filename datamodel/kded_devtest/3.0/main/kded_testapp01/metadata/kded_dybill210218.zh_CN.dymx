@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1EGHDE6DFQMB</MasterId>
+  <Id>1EGHDE6DFQMB</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_dybill210218</Number>
+      <PkId>1EJ41D=B43YU</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>kded_dybill210218</Name>
+      <Id>1EGHDE6DFQMB</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_dybill210218</Number>
+      <PkId>1EJ41DA+I/M5</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>kded_dybill210218</Name>
+      <Id>1EGHDE6DFQMB</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1613786507378</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

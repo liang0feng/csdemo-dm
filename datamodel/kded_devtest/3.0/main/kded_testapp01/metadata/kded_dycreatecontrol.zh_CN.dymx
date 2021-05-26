@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1FMGYA7H/7C9</MasterId>
+  <Id>1FMGYA7H/7C9</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_dycreatecontrol</Number>
+      <PkId>1G559EPTDIEF</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>移动端动态添加控件demo</Name>
+      <Id>1FMGYA7H/7C9</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_dycreatecontrol</Number>
+      <PkId>1G559EQ29RAQ</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>移动端动态添加控件demo</Name>
+      <Id>1FMGYA7H/7C9</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1615354865517</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

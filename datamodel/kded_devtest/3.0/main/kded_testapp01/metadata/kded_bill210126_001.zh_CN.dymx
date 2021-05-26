@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1CAZ/LKFI7YN</MasterId>
+  <Id>1CAZ/LKFI7YN</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_bill210126_001</Number>
+      <PkId>1M7GPVP1SRLX</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>bill210126_001</Name>
+      <Id>1CAZ/LKFI7YN</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_bill210126_001</Number>
+      <PkId>1M7GPVWHW+P6</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>bill210126_001</Name>
+      <Id>1CAZ/LKFI7YN</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1621235043644</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

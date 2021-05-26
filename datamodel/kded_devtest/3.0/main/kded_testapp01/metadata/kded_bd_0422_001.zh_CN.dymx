@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1K+50UMLU+L6</MasterId>
+  <Id>1K+50UMLU+L6</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_bd_0422_001</Number>
+      <PkId>1K+55510/BFO</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>常用条件1</Name>
+      <Id>1K+50UMLU+L6</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_bd_0422_001</Number>
+      <PkId>1K+555576/FH</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>常用条件1</Name>
+      <Id>1K+50UMLU+L6</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1619062267189</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
