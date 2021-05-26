@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1LE141F9JOUK</MasterId>
+  <BizappId>1D06PNWMLX2U</BizappId>
+  <Id>1LE141F9JOUK</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1620453111000</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Isv>kded</Isv>
+          <Id>1LE141F9JOUK</Id>
+          <Key>kded_treebill210508_001</Key>
+          <EntityId>1LE141F9JOUK</EntityId>
+          <ParentId>b0d31cea000001ac</ParentId>
+          <BizappId>1D06PNWMLX2U</BizappId>
+          <Name>树形基础资料</Name>
+          <InheritPath>1942c188000065ac,b0d31cea000001ac</InheritPath>
+          <Items>
+            <BasedataFormAp action="edit" oid="1942c188000064ac">
+              <MobListMeta>
+                <FormMetadata>
+                  <Items>
+                    <BillListAp action="edit" oid="_BillList_">
+                      <EntityId>1LE141F9JOUK</EntityId>
+                    </BillListAp>
+                  </Items>
+                </FormMetadata>
+              </MobListMeta>
+              <Id>1LE141F9JOUK</Id>
+              <Name>树形基础资料</Name>
+              <Key>kded_treebill210508_001</Key>
+            </BasedataFormAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>1149791915282006016</ModifierId>
+      <EntityId>1LE141F9JOUK</EntityId>
+      <ModelType>BaseFormModel</ModelType>
+      <Isv>kded</Isv>
+      <Version>1620453110672</Version>
+      <ParentId>b0d31cea000001ac</ParentId>
+      <MasterId></MasterId>
+      <Number>kded_treebill210508_001</Number>
+      <BizappId>1D06PNWMLX2U</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1LE141F9JOUK</Id>
+      <InheritPath>1942c188000065ac,b0d31cea000001ac</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>0</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <Id>1LE141F9JOUK</Id>
+          <ParentId>b0d31cea000001ac</ParentId>
+          <BizappId>1D06PNWMLX2U</BizappId>
+          <IsvSign/>
+          <Name>树形基础资料</Name>
+          <InheritPath>1942c188000065ac,b0d31cea000001ac</InheritPath>
+          <Items>
+            <BaseEntity action="edit" oid="1942c188000066ac">
+              <Template action="reset"/>
+              <dbRoute>secd</dbRoute>
+              <Id>1LE141F9JOUK</Id>
+              <Key>kded_treebill210508_001</Key>
+              <Name>树形基础资料</Name>
+            </BaseEntity>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>BaseFormModel</ModelType>
+      <Isv></Isv>
+      <Version>1620453110780</Version>
+      <ParentId>b0d31cea000001ac</ParentId>
+      <MasterId></MasterId>
+      <Number>kded_treebill210508_001</Number>
+      <BizappId>1D06PNWMLX2U</BizappId>
+      <Id>1LE141F9JOUK</Id>
+      <InheritPath>1942c188000065ac,b0d31cea000001ac</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1620453110672</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1D07+1K78RC8</BizunitId>
+</DeployMetadata>

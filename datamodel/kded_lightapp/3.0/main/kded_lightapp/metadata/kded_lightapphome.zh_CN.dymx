@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1D06UDDMHSXB</MasterId>
+  <Id>1D06UDDMHSXB</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_lightapphome</Number>
+      <PkId>1D08E+1JOYHG</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>首页01</Name>
+      <Id>1D06UDDMHSXB</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_lightapphome</Number>
+      <PkId>1D08E+23FFAT</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>首页01</Name>
+      <Id>1D06UDDMHSXB</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1612321222416</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

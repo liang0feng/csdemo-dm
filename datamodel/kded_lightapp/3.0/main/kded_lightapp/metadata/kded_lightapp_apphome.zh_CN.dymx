@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1D06PV/MFADX</MasterId>
+  <Id>1D06PV/MFADX</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_lightapp_apphome</Number>
+      <PkId>1D06QENB+6ZW</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>轻应用测试_应用首页</Name>
+      <Id>1D06PV/MFADX</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_lightapp_apphome</Number>
+      <PkId>1D06QEQS4JEL</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>轻应用测试_应用首页</Name>
+      <Id>1D06PV/MFADX</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1612320150043</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

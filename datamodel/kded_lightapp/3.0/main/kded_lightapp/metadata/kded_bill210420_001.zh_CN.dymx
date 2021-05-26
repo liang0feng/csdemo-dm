@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1JT049D7QBI7</MasterId>
+  <Id>1JT049D7QBI7</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kded_bill210420_001</Number>
+      <PkId>1MCS+P7S4GY+</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>插件样式</Name>
+      <Id>1JT049D7QBI7</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kded_bill210420_001</Number>
+      <PkId>1MCS+P95IQGY</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>插件样式</Name>
+      <Id>1JT049D7QBI7</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1621391533229</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
